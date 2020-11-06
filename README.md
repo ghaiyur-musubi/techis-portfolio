@@ -1,4 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
+# Techisfolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
 
 ## A minimal portfolio template for Developers!
 
@@ -6,8 +6,6 @@
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
   <br>
 </h2>
-
-**_IMPORTANT NOTE_**: New fastest version came out, built with React + Gatsby! 🎉🎉🎉 See more: [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio)
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/3oFzmq6Kj4yXZUVHmE/giphy.gif" alt="Look up!" width="600px" />
@@ -322,7 +320,7 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Ghaiyur Naqui Ahmad** - [https://github.com/ghaiyur-musubi](https://github.com/ghaiyur-musubi)
 
 ## Status
 
