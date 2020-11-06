@@ -23,6 +23,7 @@
 ⚡️ Well organized documentation
 
 To view a live example, **[click here](https://ghaiyur.netlify.app/)**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e10a1c55-5a6c-4b4f-89e7-5d7b4a31d378/deploy-status)](https://app.netlify.com/sites/ghaiyur/deploys)
 
 ---
 
